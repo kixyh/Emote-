@@ -1,0 +1,115 @@
+[
+  {
+    "Name": "BedRot",
+    "AnimationId": "rbxassetid://131507580963734",
+    "SoundURL": "https://raw.githubusercontent.com/kixyh/Emote-/d59be0862829c07593f65a954a25ab336c3f8be8/Bedrot.mp3",
+    "FileName": "Bedrot.mp3",
+    "OneTime": false,
+    "SpecialEffect": "BedRot"
+  },
+  {
+    "Name": "IBMC",
+    "AnimationId": "rbxassetid://126035888065434",
+    "SoundURL": "https://raw.githubusercontent.com/kixyh/Emote-/c14509e34813427c9fac6cdb4c0e429966c9e8f2/IBMC.mp3",
+    "FileName": "IBMC.mp3",
+    "OneTime": false
+  },
+  {
+    "Name": "Dream",
+    "AnimationId": "rbxassetid://112455083563294",
+    "SoundURL": "https://raw.githubusercontent.com/kixyh/Emote-/34d1fb4ce7cffefef1faa944e64b6f9e305bfcf0/Dream.mp3",
+    "FileName": "Dream.mp3",
+    "OneTime": false
+  },
+  {
+    "Name": "Confess Your Love",
+    "AnimationId": "rbxassetid://108873777157620",
+    "SoundURL": "https://raw.githubusercontent.com/kixyh/Emote-/477d895905d7f0bcda6164c9f204a9f442781ce3/CONFESS%20YOUR%20LOVE.mp3",
+    "FileName": "ConfessYourLove.mp3",
+    "OneTime": false
+  },
+  {
+    "Name": "Jiggy",
+    "AnimationId": "rbxassetid://132396413423992",
+    "SoundURL": "https://raw.githubusercontent.com/kixyh/Emote-/e2918e323f2a30b0a6392e2bb8a7d43ab086685e/getjiggy.mp3",
+    "FileName": "getjiggy.mp3",
+    "OneTime": false
+  },
+  {
+    "Name": "Bl studio hard tekk",
+    "AnimationId": "rbxassetid://111272262660539",
+    "SoundURL": "https://raw.githubusercontent.com/kixyh/Emote-/28d6001bc146fcd5b4d885a51eb0728c17a89a28/BLS.mp3",
+    "FileName": "BLS.mp3",
+    "OneTime": false
+  },
+  {
+    "Name": "Cap’n Crunch",
+    "AnimationId": "rbxassetid://103948800984170",
+    "SoundURL": "https://raw.githubusercontent.com/kixyh/Emote-/9cfd061d32efb669be885b332ef4e1d75368f270/Cap%E2%80%99n%20Crunch.mp3",
+    "FileName": "CapnCrunch.mp3",
+    "OneTime": false
+  },
+  {
+    "Name": "yuji jump",
+    "AnimationId": "rbxassetid://139982320267456",
+    "SoundURL": "https://raw.githubusercontent.com/kixyh/Emote-/9e01286175e76f1398ab7af5c4db9384e75a3caf/Yuji%20fucking%20jump.mp3",
+    "FileName": "YujiJump.mp3",
+    "OneTime": false
+  },
+  {
+    "Name": "Verity Peakity",
+    "AnimationId": "rbxassetid://108374677470972",
+    "SoundURL": "https://raw.githubusercontent.com/kixyh/Emote-/ffc1ab6e9d3ac565f13d8d64a1ac4dd7d6cef238/Hey%20it%E2%80%99s%20my%20peakity.mp3",
+    "FileName": "VerityPeakity.mp3",
+    "OneTime": false
+  },
+  {
+    "Name": "Granny’s house (FGTEEV)",
+    "AnimationId": "rbxassetid://102593046003485",
+    "SoundURL": "https://raw.githubusercontent.com/kixyh/Emote-/eb2bf567551ea1838c5ba8e4ca4f732dc0e9ee8f/Granny's%20House.mp3",
+    "FileName": "GrannysHouse.mp3",
+    "OneTime": false
+  },
+  {
+    "Name": "Fitness Gram",
+    "AnimationId": "rbxassetid://82102836766433",
+    "SoundURL": "https://raw.githubusercontent.com/kixyh/Emote-/9448fb6b883d6e7e261991fc6bea7e11c48fded4/brosgettingworkouts.mp3",
+    "FileName": "brosgettingworkouts.mp3",
+    "OneTime": false
+  },
+  {
+    "Name": "Metro Man1",
+    "AnimationId": "rbxassetid://83996782536502",
+    "SoundURL": "https://raw.githubusercontent.com/kixyh/Emote-/2c59a9146a0ecaaf0aecd88d47b6615b6967822a/MMJC.mp3",
+    "FileName": "MMJC.mp3",
+    "OneTime": false
+  },
+  {
+    "Name": "Next opponent is..",
+    "AnimationId": "rbxassetid://134459607456762",
+    "SoundURL": "https://raw.githubusercontent.com/kixyh/Emote-/12f9cefffe44e5a14e7b9f11357f44500ac6799d/Next%20opponent%20is%20YOU.mp3",
+    "FileName": "NextOpponentIsYou.mp3",
+    "OneTime": false
+  },
+  {
+    "Name": "Hunter eyes",
+    "AnimationId": "rbxassetid://92686470851073",
+    "SoundURL": "https://raw.githubusercontent.com/kixyh/Emote-/f7045cc5409c07fb01238ae8572fe56fb073940a/huntereyes.mp3",
+    "FileName": "huntereyes.mp3",
+    "OneTime": false
+  },
+  {
+    "Name": "Excuse me sir",
+    "AnimationId": "rbxassetid://80816845163914",
+    "SoundURL": "https://raw.githubusercontent.com/kixyh/Emote-/a3caba4027d98599af256ce364782e9a406d339f/Excuse%20me%20sir%20(slowed).mp3",
+    "FileName": "ExcuseMeSir.mp3",
+    "OneTime": false
+  },
+  {
+    "Name": "Best Day Ever",
+    "AnimationId": "rbxassetid://93698835621887",
+    "SoundURL": "https://raw.githubusercontent.com/kixyh/Emote-/cf9a93b6a92645ede96589e69f4ae96ea8e52722/Best%20day%20ever.mp3",
+    "FileName": "BestDayEver.mp3",
+    "OneTime": false
+  }
+]
