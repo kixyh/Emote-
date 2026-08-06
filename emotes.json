@@ -108,8 +108,15 @@
   {
     "Name": "Best Day Ever",
     "AnimationId": "rbxassetid://93698835621887",
-    "SoundURL": "https://raw.githubusercontent.com/kixyh/Emote-/cf9a93b6a92645ede96589e69f4ae96ea8e52722/Best%20day%20ever.mp3",
+    "SoundURL": "https://github.com/kixyh/Emote-/blob/d05b93785871456ee958c7626f04d979b93a6a4b/D-Mode-D_-_Shriek_STAR_GLITCHER_KLICKAUD.mp3",
     "FileName": "BestDayEver.mp3",
+    "OneTime": false
+  },
+  {
+    "Name": "Mayhem",
+    "AnimationId": "rbxassetid://131351456728156",
+    "SoundURL": "https://raw.githubusercontent.com/kixyh/Emote-/cf9a93b6a92645ede96589e69f4ae96ea8e52722/Best%20day%20ever.mp3",
+    "FileName": "Mayhem.mp3",
     "OneTime": false
   }
 ]
